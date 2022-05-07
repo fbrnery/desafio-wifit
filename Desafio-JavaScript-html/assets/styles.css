@@ -1,0 +1,23 @@
+.body {
+    background-color:	#FFFFFF;
+    padding-top: -10px;
+    padding-bottom: 0px;
+    margin-top: -10px;
+  }
+
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 23rem;
+    padding-right: 23rem;
+    margin-left: -22rem;
+    margin-right: 22rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
